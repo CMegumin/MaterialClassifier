@@ -1,0 +1,3 @@
+label: 122
+description: 8 x fragments of Pottery. Excavated from Corbridge, deaccessioned and returned to English Heritage in 2016.
+period: Roman

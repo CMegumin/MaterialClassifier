@@ -1,0 +1,4 @@
+label: 122
+object_name: vessels
+description: Pottery sherd. Dark brown. Simple incised decoration. Marked with number G8
+period: Saxon

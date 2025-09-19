@@ -1,0 +1,4 @@
+label: 94
+object_name: Carved stone
+description: Carved limestone head of a female.  Probably from Oxfordshire. Work of a native artist.  Remains of paint on neck, lips and nostrils.
+period: Roman

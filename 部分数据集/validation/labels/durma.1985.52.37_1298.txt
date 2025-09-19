@@ -1,0 +1,4 @@
+label: 122
+object_name: pottery
+description: Reconstructed small vessel (many pieces with some missing) in dark grey fabric, unglazed. Marked on base with 'Bin QR Mc Coll'  Was formerly on display in Old Fulling Mill Museum, Lower Gallery, Roman Case, but removed from display on 1/12/14 and placed in storage. Probably from Binchester excavations.
+period: Roman

@@ -1,0 +1,165 @@
+          '0': Animal Mummy
+          '1': Batik
+          '2': Buffalo Horn
+          '3': Chinese Red Rosewood
+          '4': Colour on Paper
+          '5': Flint/Chert
+          '6': Gouache on Paper
+          '7': Haematite/Red Ochre
+          '8': Human Bone
+          '9': Ink and Colour on Paper
+          '10': Ink and Colours on Silk
+          '11': Ink and Opaque Watercolour on Paper
+          '12': Ink on Paper
+          '13': Jade (Calcified)
+          '14': Japanese paper
+          '15': Microcline/Green Feldspar/Amazon-Stone
+          '16': Nile Mud
+          '17': Opaque Watercolour on Paper
+          '18': Opaque Watercolour or Gouache on Mica
+          '19': Pith
+          '20': Pith Paper
+          '21': Plant Product
+          '22': Resin/Plastic
+          '23': Rhinoceros Horn
+          '24': Smaragdite
+          '25': Steatite
+          '26': Steatite/Soap Stone
+          '27': Watercolour on Rice Paper
+          '28': acrylic
+          '29': agate
+          '30': alabaster
+          '31': aluminum
+          '32': amber
+          '33': amethyst
+          '34': antler
+          '35': artificial stone
+          '36': balsa
+          '37': bamboo
+          '38': basalt
+          '39': bone
+          '40': bowenite
+          '41': boxwood
+          '42': brass
+          '43': brocade
+          '44': bronze
+          '45': burnt jade
+          '46': canvas
+          '47': cardboard
+          '48': cards
+          '49': carnelian
+          '50': cast iron
+          '51': celadon
+          '52': cellulose acetate
+          '53': ceramic
+          '54': chalcedony
+          '55': cherry
+          '56': clay
+          '57': cloth
+          '58': coconut
+          '59': copper
+          '60': copper alloy
+          '61': coral
+          '62': cotton
+          '63': crystal
+          '64': diorite
+          '65': dolerite
+          '66': earthenware
+          '67': ebony
+          '68': emerald
+          '69': enamel
+          '70': faience
+          '71': felt
+          '72': flax
+          '73': flint
+          '74': gauze
+          '75': glass
+          '76': gold
+          '77': granite
+          '78': gray ware
+          '79': hardwood
+          '80': horn
+          '81': incense
+          '82': ink
+          '83': iron
+          '84': ivory
+          '85': jade
+          '86': jadeite
+          '87': jasper
+          '88': lacquer
+          '89': lapis lazuli
+          '90': lazurite
+          '91': lead
+          '92': lead alloy
+          '93': leather
+          '94': limestone
+          '95': linen
+          '96': malachite
+          '97': marble
+          '98': metal
+          '99': mineral
+          '100': mother of pearl
+          '101': muslin
+          '102': nephrite
+          '103': nylon
+          '104': obsidian
+          '105': organic material
+          '106': paint
+          '107': palm fiber
+          '108': palm leaf
+          '109': paper
+          '110': papier mâché
+          '111': papyrus
+          '112': pewter
+          '113': photographic paper
+          '114': pine
+          '115': plant fiber
+          '116': plaster
+          '117': plastic
+          '118': plate
+          '119': polyester
+          '120': polystyrene
+          '121': porcelain
+          '122': pottery
+          '123': quartzite
+          '124': rattan
+          '125': realgar
+          '126': reed
+          '127': rice paper
+          '128': rock
+          '129': rush
+          '130': sandstone
+          '131': satin
+          '132': schist
+          '133': seashell
+          '134': serpentine
+          '135': shell
+          '136': silk
+          '137': siltstone
+          '138': silver
+          '139': skull
+          '140': slate
+          '141': soapstone
+          '142': softwood
+          '143': stalagmites
+          '144': steel
+          '145': stone
+          '146': stoneware
+          '147': straw
+          '148': stucco
+          '149': sycamore
+          '150': synthetic fiber
+          '151': teak
+          '152': terracotta
+          '153': textiles
+          '154': tin
+          '155': tortoise shell
+          '156': tourmaline
+          '157': travertine
+          '158': tremolite
+          '159': turquoise
+          '160': velvet
+          '161': wood
+          '162': wool
+          '163': wrought iron
+          '164': zinc alloy

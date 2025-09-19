@@ -1,0 +1,4 @@
+label: 122
+object_name: sherds
+description: 70 x fragments of Pottery. Excavated from Corbridge, deaccessioned and returned to English Heritage in 2016.
+period: Roman
